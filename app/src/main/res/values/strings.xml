@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Our Singapore</string>
+    <string name="textview">textview</string>
+    <string name="add_new_island">Add new Island</string>
+    <string name="show_all_island_with_5_stars">SHOW ALL ISLAND WITH 5 STARS</string>
+    <string name="show_all_island">Show All ISLAND</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="enter_square_here">Enter square here</string>
+    <string name="stars">Stars</string>
+    <string name="cancel">Cancel</string>
+    <string name="square">Square</string>
+    <string name="enter_description_here">Enter description here</string>
+    <string name="enter_island_name_here">Enter Island name here</string>
+    <string name="description">Description</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="square">Square</string>
+    <string name="enter_island_square_here">Enter island square here</string>
+    <string name="stars">Stars</string>
+    <string name="enter_island_description_here">Enter island description here</string>
+</resources>
